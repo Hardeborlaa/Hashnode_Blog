@@ -7,7 +7,7 @@ return(
      Hardeborlaa
         </h1>
         <ul className="flex justify-between w-60">
-            <li><a href= "https://hardeborlaa.hashnode.dev/">Blog</a></li>
+            <li><a href= "https://twitter.com/Hardeborlaa">Twitter</a></li>
             <li><a href= "https://github.com/hardeborlaa">Github</a></li>
         </ul>
     </nav>
