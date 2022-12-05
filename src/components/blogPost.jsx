@@ -43,7 +43,7 @@ class BlogPost extends Component {
 
   render() { 
     return (
-      <body className='bg-pink-50'>
+      <body className='bg-pink-50 h-screen'>
         <Nav/>
         <main>
         {this.state.posts.map((post, index) => (
